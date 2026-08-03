@@ -1,0 +1,4 @@
+Sou o João Paulo faço o curso técnico em desenvolvimento de sistemas.
+Aprender Git é importante porque ele organiza o histórico do código, 
+evita a perda de arquivos e permite que equipes trabalhem juntas 
+sem estragar o trabalho dos outros.
